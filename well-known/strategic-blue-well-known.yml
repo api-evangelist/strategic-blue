@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: probed
+source: live HTTP probes of company + portal hosts
+notes: >-
+  No .well-known or discovery documents are published. Strategic Blue exposes a
+  customer login portal (portal.strategic-blue.com) but no public API, OAuth
+  server, or machine-readable API catalog. Absence recorded as valid data.
+probes:
+- host: strategic-blue.com
+  path: /.well-known/security.txt
+  status: 404
+- host: portal.strategic-blue.com
+  path: /.well-known/security.txt
+  status: 404
+- host: strategic-blue.com
+  path: /.well-known/openid-configuration
+  status: 404
+- host: portal.strategic-blue.com
+  path: /.well-known/openid-configuration
+  status: 404
+- host: strategic-blue.com
+  path: /.well-known/api-catalog
+  status: 404
+- host: strategic-blue.com
+  path: /openapi.json
+  status: 404
+- host: portal.strategic-blue.com
+  path: /openapi.json
+  status: 404

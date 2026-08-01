@@ -1,0 +1,60 @@
+# Strategic Blue
+
+> Strategic Blue is a UK-headquartered cloud FinOps company specialising in AWS rate optimization through commitment management. Founded in 2010 by Dr James Mitchell, a former commodities trader, Strategic Blue delivers Reserved Instance and Savings Plan savings of up to 40% without lock-in, forecasting requirements, or technical compromise.
+
+Strategic Blue treats cloud like a commodity, applying price risk management techniques from financial markets to optimize AWS commitment discounts. The company serves customers across commercial and public sectors, with particular strength in FinTech, HealthTech, and Science/Research organisations.
+
+Key differentiators:
+- 14+ years of cloud cost forecasting and rate optimization expertise
+- Commodity trading background enables sophisticated commitment management
+- No technical access required — only cost and usage metadata (least-privilege)
+- No impact on existing AWS relationships, invoicing, or technical operations
+- Secure-by-design with ISO 9001, ISO 14001, and ISO 27001 certifications
+
+## Services
+
+- [Automate](https://strategic-blue.com/automate-business): Rate optimization for commercial enterprises. Strategic Blue manages Reserved Instances and Savings Plans, taking a percentage share of commitment-derived savings. Delivers up to 45% savings with no lock-in contracts and full technical flexibility.
+- [Accelerate (Public Sector)](https://strategic-blue.com/accelerate): AWS resale with rate optimization for UK public sector organisations at no service fee. Provides a perfect discount with no risk of under or overspending and no usage commitments.
+- [Savings Review](https://portal.strategic-blue.com/#/sign-up): Free personalised savings projection based on your actual AWS cost and usage data.
+
+## Who We Help
+
+- [CFO](https://strategic-blue.com/who/cfo): Stable unit costs, predictable savings, reduced budget variance, and clear KPIs for cloud spending.
+- [CTO](https://strategic-blue.com/who/cto): Free engineering teams from RI/SP management so they can focus on strategic work.
+- [Procurement](https://strategic-blue.com/who/procurement): Reliable cloud savings without technical expertise, with finance-focused reports.
+- [Engineering Lead](https://strategic-blue.com/who/engineering-lead): Eliminate forecasting burden and RI/SP management from engineering teams.
+- [FinOps Teams](https://strategic-blue.com/who/finops): Access FinOps domain expertise at Run Maturity with clear benchmarks and KPIs.
+- [CISO](https://strategic-blue.com/who/ciso): Least-privilege access to cost and usage metadata only, with independent control retained by the customer.
+
+## About
+
+- [Origin Story](https://strategic-blue.com/about/origin-story): How Strategic Blue was founded in 2010 by applying commodity trading principles to cloud pricing.
+- [Executive Leadership](https://strategic-blue.com/about/executive-leadership): Meet the leadership team — Dr James Mitchell (CEO), Andy Watson (CPO), Dr Jon Smith (CCO).
+
+## Resources
+
+- [Blog](https://strategic-blue.com/resources/blog): Articles on FinOps, rate optimization, cloud cost management best practices, and industry trends.
+- [Success Stories](https://strategic-blue.com/resources/success-stories): Customer case studies including SnapLogic (45% savings), Form3, and others.
+- [How to Achieve Optimal Rate Optimization](https://strategic-blue.com/resources/blog/optimal-rate-optimization): Explains Strategic Blue's centralised approach to maximizing savings without lock-in.
+- [Guide to Choosing a Rate Optimization Tool](https://strategic-blue.com/resources/blog/cloud-cost-saving-a-guide-to-choosing-a-rate-optimization-tool): Evaluation guide for AWS RI and Savings Plan commitment optimization approaches.
+- [Understanding AWS Commitments](https://strategic-blue.com/resources/blog/understanding-aws-commitments): Explains Reserved Instances, Savings Plans, and how to combine them effectively.
+- [Empowering FinOps](https://strategic-blue.com/resources/blog/empowering-finops-tackling-typical-cloud-cost-management-pain-points): Identifying and addressing the biggest cloud cost management challenges.
+
+## Certifications & Partnerships
+
+- AWS Advanced Partner with Education Competency
+- Google Cloud Premier Partner (Sell)
+- FinOps Foundation Certified Specialty Solution provider
+- ISO 9001 (Quality), ISO 14001 (Environmental), ISO 27001 (Information Security)
+- UK Government G-Cloud Digital Marketplace supplier
+- UK Government Cloud Compute 2 framework supplier
+- HIPAA Business Associate Agreements available
+
+## Optional
+
+- [Forecasting Cloud Costs](https://strategic-blue.com/resources/blog/forecasting-cloud-costs): Guide to navigating and forecasting AWS costs.
+- [Showback in FinOps](https://strategic-blue.com/resources/blog/the-ultimate-guide-to-understanding-showback-in-finops): Understanding showback for cloud cost visibility.
+- [Chargeback in FinOps](https://strategic-blue.com/resources/blog/the-ultimate-guide-to-understanding-chargeback-in-finops): Understanding chargeback for cloud cost allocation.
+- [LLMs and Your Cloud Budget](https://strategic-blue.com/resources/blog/the-quiet-killer-llms-and-your-cloud-budget): How large language model workloads impact cloud costs.
+- [FinOps X Europe 2024 Takeaways](https://strategic-blue.com/resources/blog/finops-x): Key insights from the FinOps X Europe conference.
+- [Privacy Policy](https://strategic-blue.com/privacy): Strategic Blue's privacy and cookie policy.

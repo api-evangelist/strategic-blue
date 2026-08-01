@@ -1,0 +1,33 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://strategic-blue.com/trust
+url: https://strategic-blue.com/trust
+certifications:
+- ISO 27001:2022
+- ISO 9001:2015
+- ISO 14001:2015
+- CSA STAR
+- Cyber Essentials
+- HIPAA (Business Associate Agreements available)
+notes: >-
+  Strategic Blue explicitly states it is NOT currently SOC accredited, though it
+  notes its ISO 27001 and CSA STAR certifications can be mapped to SOC standards.
+  All ISO certifications are validated by UKAS-accredited external auditors.
+  The company is FSQS registered, Whistic registered, and a UK Government
+  G-Cloud 14 / Cloud Compute 2 framework supplier.
+evidence:
+- source: https://strategic-blue.com/trust
+  keywords:
+  - iso 27001
+  - iso 9001
+  - iso 14001
+  - csa star
+  - cyber essentials
+  - hipaa
+- source: https://strategic-blue.com/llms.txt
+  keywords:
+  - iso 9001
+  - iso 14001
+  - iso 27001
+  - hipaa business associate agreements

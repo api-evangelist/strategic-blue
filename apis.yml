@@ -1,7 +1,29 @@
 aid: strategic-blue
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/strategic-blue.png
 name: Strategic Blue
-description: Strategic Blue is a company surfaced as a portfolio company of techstars and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Strategic Blue is a UK-headquartered cloud FinOps company founded in 2010 by
+  Dr James Mitchell, a former commodities trader. It specialises in AWS rate
+  optimization through commitment management, delivering Reserved Instance and
+  Savings Plan savings of up to 40-45% without lock-in, forecasting burden, or
+  technical compromise. Strategic Blue treats cloud like a commodity, applying
+  price-risk-management techniques from financial markets to optimize AWS
+  discounts. Its Automate service serves commercial enterprises while Accelerate
+  serves the UK public sector. The company operates on a least-privilege model,
+  accessing only cost and usage metadata and never customer cloud environments.
+  It is ISO 27001, ISO 9001, and ISO 14001 certified, CSA STAR and Cyber
+  Essentials registered, and an AWS Advanced and Google Cloud Premier partner.
 url: https://raw.githubusercontent.com/api-evangelist/strategic-blue/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- FinOps
+- Cloud Cost Management
+- AWS
+- Rate Optimization
+- Cloud
+- Reserved Instances
+- Savings Plans
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,28 @@ maintainers:
 common:
 - type: Website
   url: https://strategic-blue.com/
+- type: Portal
+  url: https://portal.strategic-blue.com/#/login
+- type: SignUp
+  url: https://portal.strategic-blue.com/#/sign-up
+- type: Blog
+  url: https://strategic-blue.com/resources/blog
+- type: PrivacyPolicy
+  url: https://strategic-blue.com/privacy-policy
+- type: TermsOfService
+  url: https://strategic-blue.com/site-terms-of-use
+- type: LLMsTxt
+  url: llms/strategic-blue-llms.txt
+- type: TrustCenter
+  url: security/strategic-blue-trust-center.yml
+- type: Compliance
+  url: security/strategic-blue-trust-center.yml
+- type: DomainSecurity
+  url: security/strategic-blue-domain-security.yml
+- type: WellKnown
+  url: well-known/strategic-blue-well-known.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
